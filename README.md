@@ -1,5 +1,5 @@
 # cstimer-analyzer
-This is a collection of scripts I made to analyzer cstimer.net exports
+This is a collection of scripts I made to analyze cstimer.net exports
 
 ### analyze-time.py
 This script analyzes the solve time for your sessions and plot a graph using `matplotlib` (**run `pip install matplotlib` before running the script!**)
